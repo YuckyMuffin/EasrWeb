@@ -1,0 +1,2 @@
+EasrWeb is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) more info at http://creativecommons.org/licenses/by-sa/3.0/. Please attribute to github.com/YuckyMuffin. 
+EasrWeb provides easy to use CSS3 classes and styling to speed up your development. Learn more at the wiki.
